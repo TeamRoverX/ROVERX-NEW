@@ -342,7 +342,7 @@
     margin-bottom: 50px;
   }
 	.circles-counters, .circles-counters-dark-bg{
-    background-attachment: inherit;
+    background-position-x: -500px;
 
 
   }
