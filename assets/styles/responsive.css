@@ -540,6 +540,7 @@
   .testimonials-3col .t-item img{
     width: 200px;
     height: 180px;
+    left: 5px;	  
   }
 }
 
